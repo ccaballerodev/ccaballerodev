@@ -31,7 +31,7 @@ Mi experiencia abarca desarrollo backend, integración de APIs, automatización 
 
 ### Chía: El Equilibrio Perdido
 
-**Fundador y líder de desarrollo y arquitectura**
+**Fundador, líder de desarrollo y arquitectura**
 
 Videojuego colombiano inspirado en la cultura muisca precolombina. Lidero la estructuración técnica del proyecto y el desarrollo de sistemas interactivos en Unreal Engine.
 
